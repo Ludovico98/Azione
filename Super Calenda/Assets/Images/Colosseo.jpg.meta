@@ -1,0 +1,981 @@
+fileFormatVersion: 2
+guid: 15e6578c826a0a34f8aebb3b43d03a1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2707092170733304977
+    second: Colosseo_0
+  - first:
+      213: 2121660663529598678
+    second: Colosseo_1
+  - first:
+      213: 949947679096845715
+    second: Colosseo_2
+  - first:
+      213: -5293524869220398490
+    second: Colosseo_3
+  - first:
+      213: 1171382540980897808
+    second: Colosseo_4
+  - first:
+      213: -9082462403942447514
+    second: Colosseo_5
+  - first:
+      213: -4863612822210964850
+    second: Colosseo_6
+  - first:
+      213: 7663244344385976804
+    second: Colosseo_7
+  - first:
+      213: -247010982322292656
+    second: Colosseo_8
+  - first:
+      213: -830243755166786495
+    second: Colosseo_9
+  - first:
+      213: -5975823892293707733
+    second: Colosseo_10
+  - first:
+      213: -6423176475412630081
+    second: Colosseo_11
+  - first:
+      213: 9070104997253767490
+    second: Colosseo_12
+  - first:
+      213: 952053875143017520
+    second: Colosseo_13
+  - first:
+      213: 7829149359636388807
+    second: Colosseo_14
+  - first:
+      213: -4056979089473894337
+    second: Colosseo_15
+  - first:
+      213: -8471660453501984353
+    second: Colosseo_16
+  - first:
+      213: -3209834466127833004
+    second: Colosseo_17
+  - first:
+      213: -3132448969458547649
+    second: Colosseo_18
+  - first:
+      213: 3027504910372001529
+    second: Colosseo_19
+  - first:
+      213: 3978420056116014373
+    second: Colosseo_20
+  - first:
+      213: 5190779386052486094
+    second: Colosseo_21
+  - first:
+      213: -5591405768348738223
+    second: Colosseo_22
+  - first:
+      213: -2152512543999777961
+    second: Colosseo_23
+  - first:
+      213: 763090321260404104
+    second: Colosseo_24
+  - first:
+      213: -174999821602887766
+    second: Colosseo_25
+  - first:
+      213: 4764675701131812337
+    second: Colosseo_26
+  - first:
+      213: -7636490408050842041
+    second: Colosseo_27
+  - first:
+      213: -3389419161310510078
+    second: Colosseo_28
+  - first:
+      213: -5079419582967418196
+    second: Colosseo_29
+  - first:
+      213: -7968932360860660976
+    second: Colosseo_30
+  - first:
+      213: 5756798622210961681
+    second: Colosseo_31
+  - first:
+      213: -9131799457766877558
+    second: Colosseo_32
+  - first:
+      213: -8163976206352740879
+    second: Colosseo_33
+  - first:
+      213: -8734938801460565087
+    second: Colosseo_34
+  - first:
+      213: -1811114670445081110
+    second: Colosseo_35
+  - first:
+      213: 1110334013645870105
+    second: Colosseo_36
+  - first:
+      213: -2613397594789585873
+    second: Colosseo_37
+  - first:
+      213: -9147877847032576801
+    second: Colosseo_38
+  - first:
+      213: 1143547318092973919
+    second: Colosseo_39
+  - first:
+      213: 2299895882517876639
+    second: Colosseo_40
+  - first:
+      213: -8611895972595168591
+    second: Colosseo_41
+  - first:
+      213: -6491562925393965193
+    second: Colosseo_42
+  - first:
+      213: -7849008070341720813
+    second: Colosseo_43
+  - first:
+      213: -8089450360746166560
+    second: Colosseo_44
+  - first:
+      213: -8569632746372487699
+    second: Colosseo_45
+  - first:
+      213: -3909128102259225895
+    second: Colosseo_46
+  - first:
+      213: 4687340523263105435
+    second: Colosseo_47
+  - first:
+      213: 2969502516147583153
+    second: Colosseo_48
+  - first:
+      213: -44213232590843938
+    second: Colosseo_49
+  - first:
+      213: -7780112734222371997
+    second: Colosseo_50
+  - first:
+      213: -5211656723726628931
+    second: Colosseo_51
+  - first:
+      213: 128329880282363761
+    second: Colosseo_52
+  - first:
+      213: -7009908990663548933
+    second: Colosseo_53
+  - first:
+      213: -1382037230190995315
+    second: Colosseo_54
+  - first:
+      213: 7275948987339964487
+    second: Colosseo_55
+  - first:
+      213: 3439105627285637154
+    second: Colosseo_56
+  - first:
+      213: 1843644441765531474
+    second: Colosseo_57
+  - first:
+      213: -4307944852286225223
+    second: Colosseo_58
+  - first:
+      213: -4310306294748980341
+    second: Colosseo_59
+  - first:
+      213: 2259617387698395897
+    second: Colosseo_60
+  - first:
+      213: 5120158904088869022
+    second: Colosseo_61
+  - first:
+      213: 3015497807152879799
+    second: Colosseo_62
+  - first:
+      213: -1854347986863590097
+    second: Colosseo_63
+  - first:
+      213: 3517720478504644457
+    second: Colosseo_64
+  - first:
+      213: -104896604143916341
+    second: Colosseo_65
+  - first:
+      213: 7977994316666430366
+    second: Colosseo_66
+  - first:
+      213: 8316355074696137725
+    second: Colosseo_67
+  - first:
+      213: -3632044436955324553
+    second: Colosseo_68
+  - first:
+      213: 2519343381853342183
+    second: Colosseo_69
+  - first:
+      213: 7142248394254593874
+    second: Colosseo_70
+  - first:
+      213: -9065598793596113231
+    second: Colosseo_71
+  - first:
+      213: -6985481386426673527
+    second: Colosseo_72
+  - first:
+      213: 3396030224761114938
+    second: Colosseo_73
+  - first:
+      213: -7630564377870714588
+    second: Colosseo_74
+  - first:
+      213: -4767612747226883180
+    second: Colosseo_75
+  - first:
+      213: 4287898299498303063
+    second: Colosseo_76
+  - first:
+      213: 2070064519333192247
+    second: Colosseo_77
+  - first:
+      213: -378632301684991321
+    second: Colosseo_78
+  - first:
+      213: 3331599000587390255
+    second: Colosseo_79
+  - first:
+      213: -463818516599419220
+    second: Colosseo_80
+  - first:
+      213: 8442731076329827933
+    second: Colosseo_81
+  - first:
+      213: 2935820304302767362
+    second: Colosseo_82
+  - first:
+      213: -34503581597083290
+    second: Colosseo_83
+  - first:
+      213: 4720179749828612349
+    second: Colosseo_84
+  - first:
+      213: 1633436833992972946
+    second: Colosseo_85
+  - first:
+      213: -479576578282255870
+    second: Colosseo_86
+  - first:
+      213: 5032107069952321359
+    second: Colosseo_87
+  - first:
+      213: 8586369842116786868
+    second: Colosseo_88
+  - first:
+      213: -4968744209784712327
+    second: Colosseo_89
+  - first:
+      213: -6146068215554313887
+    second: Colosseo_90
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Colosseo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f634335730a7e6ad0800000000000000
+      internalID: -2707092170733304977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dee997e127a17d10800000000000000
+      internalID: 2121660663529598678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39536cf8164ee2d00800000000000000
+      internalID: 949947679096845715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a0c608d2f9986b0800000000000000
+      internalID: -5293524869220398490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c24bf636914010800000000000000
+      internalID: 1171382540980897808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6668b27809c94f180800000000000000
+      internalID: -9082462403942447514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 380
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82941f18e9f08cb0800000000000000
+      internalID: -4863612822210964850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b52e2120595a60800000000000000
+      internalID: 7663244344385976804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583f0ff1d0729cf0800000000000000
+      internalID: -247010982322292656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1c4814b16a74f0800000000000000
+      internalID: -830243755166786495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289a8bc4db911da0800000000000000
+      internalID: -5975823892293707733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5726de60b4cd6a0800000000000000
+      internalID: -6423176475412630081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_12
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2416ec4807c7fdd70800000000000000
+      internalID: 9070104997253767490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_13
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 260
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0340fea84ff563d00800000000000000
+      internalID: 952053875143017520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb9a9aacd9b6ac60800000000000000
+      internalID: 7829149359636388807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3888be4307b2b7c0800000000000000
+      internalID: -4056979089473894337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f912a4bc3bd9e6a80800000000000000
+      internalID: -8471660453501984353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_17
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45815aa3f806473d0800000000000000
+      internalID: -3209834466127833004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34826a324e4784d0800000000000000
+      internalID: -3132448969458547649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_19
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f65972fcabd30a20800000000000000
+      internalID: 3027504910372001529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 140
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da51466ff263730800000000000000
+      internalID: 3978420056116014373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec32415895a590840800000000000000
+      internalID: 5190779386052486094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dd08604165762b0800000000000000
+      internalID: -5591405768348738223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_23
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7532258ee3db022e0800000000000000
+      internalID: -2152512543999777961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd34aaa9a079a00800000000000000
+      internalID: 763090321260404104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_25
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76a95e696429df0800000000000000
+      internalID: -174999821602887766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd95eb4e478f1240800000000000000
+      internalID: 4764675701131812337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Colosseo_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 20
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746a3790f6cb50690800000000000000
+      internalID: -7636490408050842041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c0a2a29be1eef214ab86a3bbe5f0ef23
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
